@@ -1,0 +1,23 @@
+{
+    "None": 0,
+    "case-report": 128113,
+    "research-article": 32830,
+    "brief-report": 1346,
+    "review-article": 1961,
+    "report": 36,
+    "letter": 575,
+    "meeting-report": 75,
+    "other": 1916,
+    "discussion": 17,
+    "article-commentary": 44,
+    "methods-article": 24,
+    "calendar": 5,
+    "systematic-review": 18,
+    "abstract": 21,
+    "editorial": 44,
+    "case-report ": 3,
+    " case-report": 1,
+    "in-brief": 3,
+    "correction": 1,
+    "book-review": 1
+}
